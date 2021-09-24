@@ -156,3 +156,10 @@ Loss=7.247662324516568e-06 Batch_id=199 Accuracy=95.35 Cats Accuracy=95.50 Dogs 
 
 Test set: Average loss: 0.0309, Accuracy: 763/800 (95.38%) Cats Accuracy: 386/400 (96.50%) Dogs Accuracy: 377/400 (94.25%)
 ```
+
+## Contributors
+
+* [Kaustubh Harapanahalli](mailto:kaustubhharapanahalli@gmail.com)
+* [Monimoy Deb Purkayastha](mailto:monimoyd@gmail.com)
+* [Rohin Sequira](mailto:sequeira.rohin@gmail.com)
+* [Soma Korada](mailto:somakorada@gmail.com)
