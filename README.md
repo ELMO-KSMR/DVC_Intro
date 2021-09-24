@@ -161,5 +161,5 @@ Test set: Average loss: 0.0309, Accuracy: 763/800 (95.38%) Cats Accuracy: 386/40
 
 * [Kaustubh Harapanahalli](mailto:kaustubhharapanahalli@gmail.com)
 * [Monimoy Deb Purkayastha](mailto:monimoyd@gmail.com)
-* [Rohin Sequira](mailto:sequeira.rohin@gmail.com)
+* [Rohin Sequeira](mailto:sequeira.rohin@gmail.com)
 * [Soma Korada](mailto:somakorada@gmail.com)
