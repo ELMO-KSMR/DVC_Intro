@@ -6,7 +6,7 @@ def test_no_data_zip_file():
 
 
 def test_no_checkpoint_file():
-    assert os.path.isfile("checkpoint.pth") == True
+    assert os.path.isfile("checkpoint.pth") == False
 
 
 def test_accuracty_above_70():
