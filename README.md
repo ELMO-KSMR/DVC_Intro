@@ -34,7 +34,60 @@ The results observed for the first iteration are:
 The logs of the training done are listed below:
 
 ```bash
+Generating Model
+Populating Data
+ total_train_records:  1000
+ total_test_records:  800
+Starting training
+EPOCH: 1
+Loss=1.431853175163269 Batch_id=99 Accuracy=88.50 Cats Accuracy=89.20 Dogs Accuracy=87.80: 100%|███████████████████████████████████████████████████████████████████████████████| 100/100 [00:20<00:00,  4.85it/s]
 
+Test set: Average loss: 0.0350, Accuracy: 751/800 (93.88%) Cats Accuracy: 392/400 (98.00%) Dogs Accuracy: 359/400 (89.75%)
+
+EPOCH: 2
+Loss=0.006366188637912273 Batch_id=99 Accuracy=93.40 Cats Accuracy=93.00 Dogs Accuracy=93.80: 100%|████████████████████████████████████████████████████████████████████████████| 100/100 [00:19<00:00,  5.07it/s]
+
+Test set: Average loss: 0.0279, Accuracy: 766/800 (95.75%) Cats Accuracy: 383/400 (95.75%) Dogs Accuracy: 383/400 (95.75%)
+
+EPOCH: 3
+Loss=0.8110159635543823 Batch_id=99 Accuracy=93.40 Cats Accuracy=93.20 Dogs Accuracy=93.60: 100%|██████████████████████████████████████████████████████████████████████████████| 100/100 [00:19<00:00,  5.04it/s]
+
+Test set: Average loss: 0.0267, Accuracy: 761/800 (95.12%) Cats Accuracy: 383/400 (95.75%) Dogs Accuracy: 378/400 (94.50%)
+
+EPOCH: 4
+Loss=0.00015035287651699036 Batch_id=99 Accuracy=92.00 Cats Accuracy=92.40 Dogs Accuracy=91.60: 100%|██████████████████████████████████████████████████████████████████████████| 100/100 [00:19<00:00,  5.03it/s]
+
+Test set: Average loss: 0.0531, Accuracy: 755/800 (94.38%) Cats Accuracy: 396/400 (99.00%) Dogs Accuracy: 359/400 (89.75%)
+
+EPOCH: 5
+Loss=3.576278118089249e-08 Batch_id=99 Accuracy=93.00 Cats Accuracy=93.20 Dogs Accuracy=92.80: 100%|███████████████████████████████████████████████████████████████████████████| 100/100 [00:20<00:00,  4.99it/s]
+
+Test set: Average loss: 0.0353, Accuracy: 765/800 (95.62%) Cats Accuracy: 375/400 (93.75%) Dogs Accuracy: 390/400 (97.50%)
+
+EPOCH: 6
+Loss=7.152554815093026e-08 Batch_id=99 Accuracy=95.10 Cats Accuracy=94.40 Dogs Accuracy=95.80: 100%|███████████████████████████████████████████████████████████████████████████| 100/100 [00:20<00:00,  4.96it/s]
+
+Test set: Average loss: 0.0823, Accuracy: 736/800 (92.00%) Cats Accuracy: 398/400 (99.50%) Dogs Accuracy: 338/400 (84.50%)
+
+EPOCH: 7
+Loss=1.382818254569429e-06 Batch_id=99 Accuracy=95.00 Cats Accuracy=96.40 Dogs Accuracy=93.60: 100%|███████████████████████████████████████████████████████████████████████████| 100/100 [00:20<00:00,  4.97it/s]
+
+Test set: Average loss: 0.0241, Accuracy: 766/800 (95.75%) Cats Accuracy: 390/400 (97.50%) Dogs Accuracy: 376/400 (94.00%)
+
+EPOCH: 8
+Loss=0.0 Batch_id=99 Accuracy=95.50 Cats Accuracy=95.40 Dogs Accuracy=95.60: 100%|█████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:20<00:00,  5.00it/s]
+
+Test set: Average loss: 0.0312, Accuracy: 763/800 (95.38%) Cats Accuracy: 387/400 (96.75%) Dogs Accuracy: 376/400 (94.00%)
+
+EPOCH: 9
+Loss=4.1484063331154175e-06 Batch_id=99 Accuracy=95.30 Cats Accuracy=95.00 Dogs Accuracy=95.60: 100%|██████████████████████████████████████████████████████████████████████████| 100/100 [00:19<00:00,  5.01it/s]
+
+Test set: Average loss: 0.0275, Accuracy: 766/800 (95.75%) Cats Accuracy: 389/400 (97.25%) Dogs Accuracy: 377/400 (94.25%)
+
+EPOCH: 10
+Loss=1.2568765878677368 Batch_id=99 Accuracy=96.40 Cats Accuracy=96.20 Dogs Accuracy=96.60: 100%|██████████████████████████████████████████████████████████████████████████████| 100/100 [00:19<00:00,  5.01it/s]
+
+Test set: Average loss: 0.0321, Accuracy: 764/800 (95.50%) Cats Accuracy: 389/400 (97.25%) Dogs Accuracy: 375/400 (93.75%)
 ```
 
 ### Second Iteration
