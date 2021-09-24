@@ -1,0 +1,2 @@
+,train_acc,cats_train_acc,dogs_train_acc,test_acc,cats_test_acc,dogs_test_acc
+0,95.57695595406967,96.50152348236993,94.65884451046051,97.25,98.5,96.0
